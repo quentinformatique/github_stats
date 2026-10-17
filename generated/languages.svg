@@ -132,7 +132,7 @@ div.ellipsis {
 
 <div>
 <span class="progress">
-<span style="background-color: #3572A5;width: 40.111%;" class="progress-item"></span><span style="background-color: #b07219;width: 34.179%;" class="progress-item"></span><span style="background-color: #3178c6;width: 10.006%;" class="progress-item"></span><span style="background-color: #41b883;width: 4.742%;" class="progress-item"></span><span style="background-color: #7355dd;width: 2.875%;" class="progress-item"></span><span style="background-color: #4F5D95;width: 2.504%;" class="progress-item"></span><span style="background-color: #e34c26;width: 2.315%;" class="progress-item"></span><span style="background-color: #663399;width: 1.420%;" class="progress-item"></span><span style="background-color: #f1e05a;width: 0.948%;" class="progress-item"></span><span style="background-color: #878787;width: 0.327%;" class="progress-item"></span><span style="background-color: #c1d026;width: 0.196%;" class="progress-item"></span><span style="background-color: #a53b70;width: 0.092%;" class="progress-item"></span><span style="background-color: #89e051;width: 0.073%;" class="progress-item"></span><span style="background-color: #384d54;width: 0.053%;" class="progress-item"></span><span style="background-color: #f34b7d;width: 0.041%;" class="progress-item"></span><span style="background-color: #6E4C13;width: 0.037%;" class="progress-item"></span><span style="background-color: #012456;width: 0.028%;" class="progress-item"></span><span style="background-color: #844FBA;width: 0.021%;" class="progress-item"></span><span style="background-color: #F4AA41;width: 0.018%;" class="progress-item"></span><span style="background-color: #555555;width: 0.012%;" class="progress-item"></span><span style="background-color: #0000fb;width: 0.001%;" class="progress-item"></span>
+<span style="background-color: #3572A5;width: 40.103%;" class="progress-item"></span><span style="background-color: #b07219;width: 34.172%;" class="progress-item"></span><span style="background-color: #3178c6;width: 10.004%;" class="progress-item"></span><span style="background-color: #41b883;width: 4.741%;" class="progress-item"></span><span style="background-color: #7355dd;width: 2.875%;" class="progress-item"></span><span style="background-color: #4F5D95;width: 2.504%;" class="progress-item"></span><span style="background-color: #e34c26;width: 2.314%;" class="progress-item"></span><span style="background-color: #663399;width: 1.420%;" class="progress-item"></span><span style="background-color: #f1e05a;width: 0.948%;" class="progress-item"></span><span style="background-color: #878787;width: 0.327%;" class="progress-item"></span><span style="background-color: #c1d026;width: 0.196%;" class="progress-item"></span><span style="background-color: #a53b70;width: 0.092%;" class="progress-item"></span><span style="background-color: #89e051;width: 0.082%;" class="progress-item"></span><span style="background-color: #384d54;width: 0.053%;" class="progress-item"></span><span style="background-color: #f34b7d;width: 0.041%;" class="progress-item"></span><span style="background-color: #012456;width: 0.038%;" class="progress-item"></span><span style="background-color: #6E4C13;width: 0.037%;" class="progress-item"></span><span style="background-color: #844FBA;width: 0.021%;" class="progress-item"></span><span style="background-color: #F4AA41;width: 0.018%;" class="progress-item"></span><span style="background-color: #555555;width: 0.012%;" class="progress-item"></span><span style="background-color: #0000fb;width: 0.001%;" class="progress-item"></span>
 </span>
 </div>
 
@@ -144,7 +144,7 @@ div.ellipsis {
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">Python</span>
-<span class="percent">40.11%</span>
+<span class="percent">40.10%</span>
 </li>
 
 
@@ -153,7 +153,7 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">Java</span>
-<span class="percent">34.18%</span>
+<span class="percent">34.17%</span>
 </li>
 
 
@@ -162,7 +162,7 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">TypeScript</span>
-<span class="percent">10.01%</span>
+<span class="percent">10.00%</span>
 </li>
 
 
@@ -180,7 +180,7 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">C#</span>
-<span class="percent">2.88%</span>
+<span class="percent">2.87%</span>
 </li>
 
 
@@ -252,7 +252,7 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">Shell</span>
-<span class="percent">0.07%</span>
+<span class="percent">0.08%</span>
 </li>
 
 
@@ -275,20 +275,20 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 
 
 <li style="animation-delay: 2250ms;">
-<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#6E4C13;"
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#012456;"
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
-<span class="lang">Assembly</span>
+<span class="lang">PowerShell</span>
 <span class="percent">0.04%</span>
 </li>
 
 
 <li style="animation-delay: 2400ms;">
-<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#012456;"
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#6E4C13;"
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
-<span class="lang">PowerShell</span>
-<span class="percent">0.03%</span>
+<span class="lang">Assembly</span>
+<span class="percent">0.04%</span>
 </li>
 
 
